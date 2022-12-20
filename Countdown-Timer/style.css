@@ -19,13 +19,33 @@ body {
 }
 
 h1 {
-    font-size: 4rem;
+    font-size: 4.5rem;
+    margin-left: -22.5rem;
+    margin-top: -12rem; 
+}
+.big-text {
+    font-weight:bold;
+    font-size: 3rem;
     
 }
 
-
 .countdown-container{
     display:flex;
+    position:fixed; left:200px; bottom:100px;
+    text-align: center;
+    font-size: 1.5rem;
+    text-indent: 15px;
+}
 
 
+.span{
+    display:flex;
+    text-align: center;
+    font-size: 1.5rem;
+    text-indent: 15px;
+}
+
+.credits {
+    position:fixed; left:300px; bottom:20px;
+    font-size: 1.5rem;
 }
