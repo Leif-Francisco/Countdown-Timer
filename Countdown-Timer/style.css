@@ -21,14 +21,14 @@ body {
 
 
 h1 {
-    font-size: 4.5rem;
-    margin-left: -22.5rem;
+    font-size: 4rem;
+    margin-left: -12.5rem;
     margin-top: -2rem;  
 }
 
 .countdown-container{
     display:flex;
-    position:relative; left:-200px; bottom:80px;
+    position:relative; left:-100px; bottom:80px;
     text-align: center;
     font-size: 1.5rem;
     text-indent: 15px;
@@ -52,6 +52,6 @@ h1 {
 }
 
 .credits {
-    position:fixed; left:275px; bottom:20px;
+    position:fixed; left:375px; bottom:20px;
     font-size: 1.5rem;
 }
